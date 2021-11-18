@@ -1,0 +1,4 @@
+[2021-11-18 17:03:19,108][MainThread:45612][task_id:interface.usr_interface][usr_interface.py:38][INFO][用户[xucee]登录成功]
+[2021-11-18 17:07:07,962][MainThread:33500][task_id:interface.usr_interface][usr_interface.py:38][INFO][用户[xucee]登录成功]
+[2021-11-18 17:08:28,539][MainThread:30236][task_id:interface.usr_interface][usr_interface.py:38][INFO][用户[xucee]登录成功]
+[2021-11-18 17:08:39,963][MainThread:30236][task_id:interface.bank_interface][bank_interface.py:65][INFO][用户xucee消费了40015元]
